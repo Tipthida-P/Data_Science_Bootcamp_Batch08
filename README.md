@@ -1,5 +1,5 @@
 # Data_Science_Bootcamp_08
-My data porfolio data analyst role
+My porfolio about data analyst role
 
 ## what did I learn from this bootcamp
 This bootcamps have 10 sprints as follow :
